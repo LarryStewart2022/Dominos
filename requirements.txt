@@ -1,0 +1,6 @@
+numpy
+gradio
+Pillow
+opencv-python==4.8.1.78
+rembg
+
